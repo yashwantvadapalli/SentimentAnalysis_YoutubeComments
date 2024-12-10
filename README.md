@@ -39,5 +39,12 @@ The primary goal of this project is to analyze YouTube comments to classify sent
 - **Positive Sentiments**: Highlighted appreciation for the humor and nostalgia of the scene.
 - **Negative Sentiments**: Focused on specific lines or perceived issues with the content.
 
-### Visualizations:
-- Sentiment distribution charts, word clouds, and topic-word distributions effectively illustrate the analysis.
+## Summary
+
+The sentiment analysis of YouTube comments for the video "I Want It That Way | Brooklyn Nine-Nine" revealed insightful trends in viewer feedback:
+- The majority of comments were neutral, indicating that viewers often engaged with factual elements of the content without emotional bias.
+- Positive comments highlighted the audience's appreciation for the humor and nostalgia, emphasizing the memorable nature of the scene.
+- Negative comments were fewer but reflected strong opinions or critiques about specific elements.
+
+The analysis demonstrated the effectiveness of NLP techniques, such as Term-Document Matrices, TF-IDF, and Latent Dirichlet Allocation, in uncovering patterns in textual data. Visualizations, including word clouds and sentiment distributions, provided a clear depiction of the insights derived. Overall, the project successfully identified the key themes and sentiments expressed by viewers, highlighting their engagement with the content.
+
